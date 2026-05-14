@@ -1,3 +1,6 @@
+## Fast Food Reccomender
+the best ai tool to get best fast food reccomends 
+
 ## Summary
 Create system which would display recommendations tailored to each Customer preferences based on the historical data for each Customer. Recommendations will be displayed to Customer on self-service kiosks and at menu display board in drive-in.
 Building AI course project

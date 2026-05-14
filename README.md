@@ -3,13 +3,13 @@ Building AI course project
 Create personalized recommendations in fast food restaurant
 Final project for the Building AI course
 
-Summary
+## Summary
 Create system which would display recommendations tailored to each Customer preferences based on the historical data for each Customer. Recommendations will be displayed to Customer on self-service kiosks and at menu display board in drive-in.
 
-Background
+## Background
 In recent years fast-food sales have slowed as people turn to the alternatives. By using recommendation system, products with highest probability to be sold for specific Customer will be recommended what should have positive impact on sale.
 
-How is it used?
+## How is it used?
 irst step is to identify specific Customer. For this purpose, it will be used following methods:
 
 indoor - for example via loyalty card
@@ -29,15 +29,15 @@ choose top N-candidates
 ranking them
 Output of the recommendation system will be one or more items which will be then displayed to the Customer during order generation process.
 
-Challenges
+## Challenges
 In order to objectively evaluate quality of the model it will be required to define appropriate quality metrics, specially for recommendation systems (e.g. Recall@k, Precision@k).
 
 As system requires some amount of personal data to be collected, this should be done with Customer consent and in compliance with with local law on data protection and privacy.
 
-What next?
+## What next?
 Next step would be to create data model for data sources for Customer, orders and items and then to start building the model of the recommendation system. Anyone interested to help are welcome to contribute.
 
-Acknowledgments
+## Acknowledgments
 Recommendation System Algorithms by Daniil Korbut (link: https://blog.statsbot.co/recommendation-system-algorithms-ba67f39ac9a3, retrieved on 30.12.2020)
 
 when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used

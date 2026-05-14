@@ -1,10 +1,6 @@
-# Fast-food-Reccomender
-Building AI course project
-Create personalized recommendations in fast food restaurant
-Final project for the Building AI course
-
 ## Summary
 Create system which would display recommendations tailored to each Customer preferences based on the historical data for each Customer. Recommendations will be displayed to Customer on self-service kiosks and at menu display board in drive-in.
+Building AI course project
 
 ## Background
 In recent years fast-food sales have slowed as people turn to the alternatives. By using recommendation system, products with highest probability to be sold for specific Customer will be recommended what should have positive impact on sale.
